@@ -5,6 +5,7 @@ GD3B
 
 Een simpele minesweeper.
 
-Portofolio:
-[link](http://21974.hosts.ma-cloud.nl/bewijzenmap/Portofolio/html-files/Index.html)
+[Portofolio](http://21974.hosts.ma-cloud.nl/bewijzenmap/Portofolio/html-files/Index.html)
+
+[Game] still in progress
 
